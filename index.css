@@ -40,7 +40,6 @@ body {
 video{
     position: absolute;
     z-index: -1;
-    opacity: 0.9;
     width: 100%;
 }
 h3{
